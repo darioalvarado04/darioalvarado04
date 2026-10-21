@@ -1,104 +1,194 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Darío</h1>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Dario</h1></summary>
-  </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Computer Engineering Student & IT Enthusiast</h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 🎓 I'm currently pursuing a **Licentiate Degree in Computer Engineering** at ULACIT, San José, Costa Rica
-
-- 💻 I have hands-on experience in **PC hardware assembly, repair, and OS troubleshooting** (Windows, macOS, Linux)
-
-- 🔭 I've worked professionally on **Android development (Kotlin, Jetpack Compose), QA automation, and CI/CD pipelines**
-
-- 🌐 I'm into **networking** — TCP/IP, OSPF, VLANs, subnetting, and Cisco router/switch configuration
-
-- 🌱 I'm currently building projects with **React.js, Node.js, and MySQL/MongoDB**
-
-- 💬 Ask me about **Android dev, QA automation, PC hardware/repair, or networking**
-
-- 📫 Reach me at **darioalvaradolizano@gmail.com**
-
-- 🌍 Bilingual: **Spanish (native) / English (C1)**
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (end) -->
-
+  <strong>Computer Engineering · Software Development · QA Automation · IT Support</strong>
 </p>
-<!--- stats (end) -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Work With 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,cs,php,html,css,mysql,mongodb,linux,windows11,react,nodejs,git,github,jenkins,jira,vscode&perline=14" />
+  Based in San José, Costa Rica 🇨🇷<br>
+  Building software, solving technical problems, and exploring automation.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dario-alvarado-lizano-43317826b">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:darioalvaradolizano@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/darioalvarado04?tab=repositories">Projects</a>
+</p>
+
+<hr>
+
+<!-- About -->
+<h2>About Me</h2>
+
+<ul>
+  <li>
+    🎓 Completed my <strong>Computer Engineering bachelor's coursework</strong>
+    at ULACIT and am currently pursuing a <strong>Licentiate degree</strong>.
+  </li>
+  <li>
+    💻 Currently working in <strong>enterprise IT support</strong>,
+    troubleshooting Windows, macOS, Microsoft 365, and business applications.
+  </li>
+  <li>
+    🛠️ Previous software engineering internship experience in
+    <strong>Android development, QA automation, and CI/CD</strong>.
+  </li>
+  <li>
+    🌱 Exploring <strong>AI-powered automation, infrastructure,
+    and networking</strong>.
+  </li>
+  <li>
+    🌍 <strong>Spanish:</strong> Native · <strong>English:</strong> C1
+    — TOEIC Listening &amp; Reading: 960/990.
+  </li>
+</ul>
+
+<!-- Experience -->
+<h2>Experience</h2>
+
+<h3>Enterprise IT Support</h3>
+
+<ul>
+  <li>
+    Troubleshoot operating system, application, software access,
+    and device configuration issues.
+  </li>
+  <li>
+    Support colleagues through chat and remote sessions,
+    adapting explanations to different technical backgrounds.
+  </li>
+  <li>
+    Document investigations and resolutions in <strong>ServiceNow</strong>
+    and coordinate escalations with support teams.
+  </li>
+</ul>
+
+<h3>Software Development &amp; Quality Assurance</h3>
+
+<ul>
+  <li>
+    Built reusable Android UI components using
+    <strong>Kotlin, Jetpack Compose, and Material 3</strong>.
+  </li>
+  <li>
+    Developed browser automation using
+    <strong>Java, Selenium, and Cucumber</strong>.
+  </li>
+  <li>
+    Maintained <strong>GitHub Actions</strong> workflows for code quality
+    checks and unit tests, and contributed to <strong>Jenkins</strong>
+    mobile CI/CD pipelines.
+  </li>
+</ul>
+
+<!-- Featured Project -->
+<h2>Featured Project</h2>
+
+<h3>
+  🅿️
+  <a href="https://github.com/darioalvarado04/Proyecto-Parqueo">
+    Parking Management System
+  </a>
+</h3>
+
+<p>
+  A web application for managing parking facilities and tracking
+  space availability and occupancy.
+</p>
+
+<ul>
+  <li>
+    <strong>My contributions:</strong>
+    Authentication and role-based access features.
+  </li>
+  <li>
+    <strong>Technologies:</strong> PHP, MySQL, HTML, and CSS.
+  </li>
+</ul>
+
+<p>
+  <a href="https://github.com/darioalvarado04/Proyecto-Parqueo">
+    Explore the repository →
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+<!-- Technologies -->
+<h2>Technologies &amp; Tools</h2>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/dario-alvarado-lizano-43317826b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:darioalvaradolizano@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="50" width="50" /></a>
-
+  <img
+    src="https://skillicons.dev/icons?i=java,kotlin,cs,py,js,php,react,nodejs,dotnet,mysql,git,github,githubactions,jenkins,selenium,linux&perline=8"
+    alt="Java, Kotlin, C#, Python, JavaScript, PHP, React, Node.js, .NET, MySQL, Git, GitHub, GitHub Actions, Jenkins, Selenium, and Linux"
+  >
 </p>
 
-<!--profile visit count-->
-<div align="center">
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Java, Kotlin, C#, Python, JavaScript, PHP, SQL, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Application Development</td>
+    <td>Android, Jetpack Compose, React, Node.js, .NET, REST APIs</td>
+  </tr>
+  <tr>
+    <td>Testing &amp; CI/CD</td>
+    <td>Selenium, Cucumber, GitHub Actions, Jenkins, Sonar</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>MySQL, SQLite, SQL Server, MongoDB</td>
+  </tr>
+  <tr>
+    <td>IT &amp; Platforms</td>
+    <td>Windows, macOS, Linux, Microsoft 365, ServiceNow</td>
+  </tr>
+  <tr>
+    <td>Networking</td>
+    <td>TCP/IP, DHCP, OSPF, VLANs, VPNs, NAT, Cisco Packet Tracer</td>
+  </tr>
+  <tr>
+    <td>Collaboration</td>
+    <td>Git, Jira, Confluence</td>
+  </tr>
+</table>
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=3&color=6)](https://visitcount.itsvg.in)
+<!-- Interests -->
+<h2>What I'm Exploring</h2>
 
-</div>
+<ul>
+  <li>🤖 Practical applications of AI and intelligent automation.</li>
+  <li>🌐 IT infrastructure and networking.</li>
+  <li>⚙️ Automating repetitive tasks and improving software quality.</li>
+</ul>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
+
+<!-- Contact -->
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  Interested in connecting with people working in software, IT, QA, and AI.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dario-alvarado-lizano-43317826b">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="mailto:darioalvaradolizano@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    >
+  </a>
+</p>
